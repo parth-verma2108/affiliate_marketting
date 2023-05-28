@@ -1,0 +1,15 @@
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: affiliate_marketting_production
+  pool: 5
+  username: parthverma
+  password: 123456789
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: affiliate_marketting_development
+  pool: 5
+  username: parthverma
+  password: 123456789
+# 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
